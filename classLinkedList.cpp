@@ -62,13 +62,13 @@ class LinkedList{
     }
 };
 int main(){
-    return 0;
+   
     LinkedList LL;
     LL.insertAtHead(20);
     LL.insertAtTail(40);
     LL.insertAtHead(50);
     LL.printLL();
 
-
+ return 0;
 
 }
